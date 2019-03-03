@@ -1,14 +1,14 @@
 {% extends "index/base.html" %}
 {% block content %}
-{% for post in posts %}
+{% for paste in pastes %}
 <article class="media content-section">
   <div class="media-body">
     <div class="article-metadata">
-      <a class="mr-2" href="#">{{ post.author }}</a>
-      <small class="text-muted">{{ post.date }}</small>
+      <a class="mr-2" href="#">{{ paste.author }}</a>
+      <small class="text-muted">{{ paste.date }}</small>
     </div>
-    <h2><a class="article-title" href="#">{{ post.title }}</a></h2>
-    <p class="article-content">{{ post.content }}</p>
+    <h2><a class="article-title" href="#">{{ paste.title }}</a></h2>
+    <p class="article-content">{{ paste.content }}</p>
   </div>
 </article>
 {% endfor %}
