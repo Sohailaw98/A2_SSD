@@ -2,6 +2,7 @@
 {% block content %}
 {% for paste in pastes %}
 <article class="media content-section">
+  <img class="rounded-circle article-img" src="{{ paste.author.profile.image.url }}" >
   <div class="media-body">
     <div class="article-metadata">
       <a class="mr-2" href="#">{{ paste.author }}</a>
