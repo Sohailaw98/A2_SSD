@@ -8,7 +8,7 @@
       <a class="mr-2" href="#">{{ paste.author }}</a>
       <small class="text-muted">{{ paste.date }}</small>
     </div>
-    <h2><a class="article-title" href="#">{{ paste.title }}</a></h2>
+    <h2><a class="article-title" href="{% url 'paste-detail' paste.id %}">{{ paste.title }}</a></h2>
     <p class="article-content">{{ paste.content }}</p>
   </div>
 </article>
