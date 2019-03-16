@@ -1,0 +1,26 @@
+Mar 15 08:26:11 sohailaw98-VirtualBox anacron[675]: Job `cron.daily' terminated
+Mar 15 08:26:11 sohailaw98-VirtualBox anacron[675]: Normal exit (1 job run)
+Mar 15 08:51:01 sohailaw98-VirtualBox CRON[3467]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Mar 15 09:03:21 sohailaw98-VirtualBox systemd[1]: Started Run anacron jobs.
+Mar 15 09:03:21 sohailaw98-VirtualBox anacron[3583]: Anacron 2.3 started on 2019-03-15
+Mar 15 09:03:21 sohailaw98-VirtualBox anacron[3583]: Normal exit (0 jobs run)
+Mar 15 09:17:01 sohailaw98-VirtualBox CRON[3849]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 15 20:00:11 sohailaw98-VirtualBox crontab[4783]: (root) BEGIN EDIT (root)
+Mar 15 20:07:03 sohailaw98-VirtualBox crontab[4855]: (root) BEGIN EDIT (root)
+Mar 15 20:10:23 sohailaw98-VirtualBox crontab[4855]: (root) REPLACE (root)
+Mar 15 20:10:23 sohailaw98-VirtualBox crontab[4855]: (root) END EDIT (root)
+Mar 15 20:17:01 sohailaw98-VirtualBox CRON[5388]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 15 20:28:14 sohailaw98-VirtualBox stunnel: LOG5[cron]: Updating DH parameters
+Mar 15 20:28:27 sohailaw98-VirtualBox stunnel: LOG5[cron]: DH parameters updated
+Mar 15 21:05:23 sohailaw98-VirtualBox systemd[1]: Started Run anacron jobs.
+Mar 15 21:05:23 sohailaw98-VirtualBox anacron[6744]: Anacron 2.3 started on 2019-03-15
+Mar 15 21:05:23 sohailaw98-VirtualBox anacron[6744]: Normal exit (0 jobs run)
+Mar 15 21:13:16 sohailaw98-VirtualBox stunnel: LOG5[cron]: Updating DH parameters
+Mar 15 21:13:52 sohailaw98-VirtualBox stunnel: LOG5[cron]: DH parameters updated
+Mar 15 21:17:01 sohailaw98-VirtualBox CRON[7007]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Mar 15 21:22:08 sohailaw98-VirtualBox stunnel: LOG5[cron]: Updating DH parameters
+Mar 15 21:22:51 sohailaw98-VirtualBox stunnel: LOG5[cron]: DH parameters updated
+Mar 15 21:30:06 sohailaw98-VirtualBox stunnel: LOG5[cron]: Updating DH parameters
+Mar 15 21:31:50 sohailaw98-VirtualBox stunnel: LOG5[cron]: DH parameters updated
+Mar 15 21:36:27 sohailaw98-VirtualBox stunnel: LOG5[cron]: Updating DH parameters
+Mar 15 21:37:02 sohailaw98-VirtualBox stunnel: LOG5[cron]: DH parameters updated
