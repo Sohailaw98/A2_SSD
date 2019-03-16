@@ -1,8 +1,7 @@
 Worked on by Sohail Abdul Wahab and Mohammed Al Ali
 
 
-![alt text](../A2_SSD/MSbin/Final_Version.JPG)
-
+https://github.com/Sohailaw98/A2_SSD/issues/1#issue-421764864
 # A2_SSD
 Secure Pastebin
 
