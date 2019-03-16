@@ -15,7 +15,7 @@ since it was the first time we were using python for web-app dev.
 To cut things short we were able to 
 
 #### -distinguish between a user and an admin allowing the admin access to all the other users 
-#### pastes,profiles and personal information using another port#### al.
+#### pastes,profiles and personal information using another portal.
  
 #### -all public posts can be easily accessed by everyone 
 
