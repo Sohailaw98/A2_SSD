@@ -1,7 +1,7 @@
 Worked on by Sohail Abdul Wahab and Mohammed Al Ali
 
 
-![alt text](https://raw.githubusercontent.com/Sohailaw98/A2_SSD/master/A2_SSD/MSbin/)
+![alt text](../A2_SSD/MSbin/Final_Version.JPG)
 
 # A2_SSD
 Secure Pastebin
