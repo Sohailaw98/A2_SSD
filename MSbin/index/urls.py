@@ -11,5 +11,5 @@ urlpatterns = [
     path('paste/<int:pk>/delete', PasteDeleteView.as_view(), name='paste-delete'),
     path('about/', views.about, name='MSbin-about'),
     path('paste/', include('shortener.urls')),
-
+#
 ]
